@@ -1,1 +1,1 @@
-# Inventors_Data_Hackathon_2023
+This repo contains my submission for the inventors communinity machine learning hackathon 
